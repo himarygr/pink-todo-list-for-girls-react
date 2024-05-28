@@ -2,7 +2,7 @@
 
 Welcome to the **To-Do List App**! This is a simple yet charming to-do list application with a Barbie-inspired theme. Add, remove, and keep track of your tasks in a glittery, pink, and butterfly-filled interface.
 
-![Butterfly](butterfly.png)
+<img src="butterfly.png" alt="Butterfly" width="100" height="100">
 
 ## Features
 
