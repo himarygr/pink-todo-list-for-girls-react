@@ -19,12 +19,15 @@ Welcome to the **To-Do List App**! This is a simple yet charming to-do list appl
    git clone https://github.com/himarygr/pink-todo-list-for-girls-react.git
 
 2. Navigate to the project directory:
+   ```bash
     cd todo-app
 
-3. Install dependencies:
+4. Install dependencies:
+   ```bash
     npm install
 
-4. Start the development server:
+6. Start the development server:
+   ```bash
     npm start
 
 ## Usage
